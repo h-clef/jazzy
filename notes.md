@@ -2,9 +2,9 @@ JAZZY - notes
 25-06-2020
 
 I divide my jazz piano skills into three main categories:
-	1) Memorization of tunes and standards
-	2) Improvisation / 'Playing over changes'
-	3) Ear training / transcription
+	1. Memorization of tunes and standards
+	2. Improvisation / 'Playing over changes'
+	3. Ear training / transcription
 
 The first and second of these, at least, are amenable to an interpretation of jazz performance as a data structure: the changes (up to and including full tunes) can be seen as static, linear data, while the act of playing over them can be viewed as a series of choices from trees of 'possible implementations'.
 
