@@ -25,3 +25,5 @@ Changes:
     vii0 - III7#5b9 - vimaj
     Imaj - vi7 - ii7 - V7
     iii7 - biii7 - ii7 - V7b5
+
+possible chars: chr(216), chr(248), chr(916)
